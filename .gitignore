@@ -1,6 +1,0 @@
-node_modules/
-data/
-.agent/*-draft-ai.md
-.agent/*-draft-diff.md
-.memory/
-**/.git/
